@@ -1,4 +1,4 @@
-define(['hbs!~/modaljs', 'jquery', 'less!~/modaljs'], function(tpl, $) {
+define(['hbs!./modaljs', 'jquery', 'less!./modaljs'], function(tpl, $) {
   return {
     render: tpl,
     attach: function(el) {
