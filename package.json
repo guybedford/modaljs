@@ -2,7 +2,7 @@
   "jspm": {
     "dependencies": {
       "hbs": "0.0.3",
-      "less": "0.0.3",
+      "less": "0.0.4",
       "jquery": "2.0.0"
     }
   }
